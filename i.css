@@ -1,0 +1,17 @@
+*{
+    text-align: center;
+}
+Body{
+    background-color: darkgreen;
+    color: yellowgreen;
+}
+input{
+    border: 3px solid black;
+    border-radius: 7px;
+}
+Button{
+    background-color: yellowgreen;
+    color: darkgreen;
+    border: 3px solid black;
+    border-radius: 8px;
+}
